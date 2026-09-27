@@ -1,0 +1,3 @@
+one after another : 19 ms, 1600000 characters
+all at once       : 12 ms, 1600000 characters
+same total        : True

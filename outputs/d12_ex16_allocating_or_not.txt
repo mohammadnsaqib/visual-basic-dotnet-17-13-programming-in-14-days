@@ -1,0 +1,5 @@
+three answers   : 976.5, 976.5 and 976.5
+query allocated : 208 bytes
+loop allocated  : 0 bytes
+sorting allocated : 520344 bytes
+the first query never sorted anything, and the measurement says so

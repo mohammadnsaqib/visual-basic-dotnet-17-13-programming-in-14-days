@@ -1,0 +1,3 @@
+1 4 9 16 25 36 49 64
+took 8 from a sequence with no end
+neither function held a collection, and neither ran to completion

@@ -1,0 +1,5 @@
+making an Invoice:
+  Document's constructor ran
+  Invoice's constructor ran
+Title  : September rent
+Amount : 1,200.00

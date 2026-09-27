@@ -1,0 +1,3 @@
+Me.Kind is invoice
+MyClass.Kind is document
+both lines are in Document and the object is an Invoice

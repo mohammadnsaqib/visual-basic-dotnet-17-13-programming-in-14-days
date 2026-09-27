@@ -1,0 +1,5 @@
+19.99 became 20
+19.49 became 19
+the String "20" came from an Integer
+the Integer 42 came from a String
+the conversion rounded to nearest; it did not cut the fraction off

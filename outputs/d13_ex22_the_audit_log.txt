@@ -1,0 +1,9 @@
+before the log existed, two postings were applied
+lines recorded : 4
+  Credit AC-1000      1,200.00 leaving   3,800.00
+  Debit  AC-1001      1,200.00 leaving   1,200.00
+  Credit AC-1000         87.50 leaving   3,712.50
+  Debit  AC-1001         87.50 leaving   1,287.50
+postings in all : 8
+balance         : 0.00
+the ledger names no listener, and works with none

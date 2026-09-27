@@ -1,0 +1,1 @@
+Program.vb(7,12): error BC30512: Option Strict On disallows implicit conversions from 'Integer' to 'Boolean'.

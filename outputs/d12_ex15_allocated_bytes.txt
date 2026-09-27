@@ -1,0 +1,5 @@
+strings made : 1000
+allocated    : 48472 bytes
+per string   : 48 bytes
+adding 1000 numbers allocated : 0 bytes
+and the total is 500500

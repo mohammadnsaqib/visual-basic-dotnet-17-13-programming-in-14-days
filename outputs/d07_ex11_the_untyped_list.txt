@@ -1,0 +1,6 @@
+count : 3
+item 0 arrives as : Int32
+reading item 2 threw : InvalidCastException
+total reached : 30
+the typed list would not have compiled the third Add
+typed total : 30

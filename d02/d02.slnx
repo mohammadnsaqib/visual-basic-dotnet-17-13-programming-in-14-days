@@ -1,0 +1,25 @@
+<Solution>
+  <Project Path="../tally/tally.vbproj" />
+  <Project Path="../tally.tests/tally.tests.vbproj" />
+  <Project Path="ex01_three_branches/ex01_three_branches.vbproj" />
+  <Project Path="ex03_short_circuit/ex03_short_circuit.vbproj" />
+  <Project Path="ex04_and_evaluates_both/ex04_and_evaluates_both.vbproj" />
+  <Project Path="ex05_the_operator_table/ex05_the_operator_table.vbproj" />
+  <Project Path="ex06_select_case/ex06_select_case.vbproj" />
+  <Project Path="ex07_the_first_match_wins/ex07_the_first_match_wins.vbproj" />
+  <Project Path="ex08_case_else/ex08_case_else.vbproj" />
+  <Project Path="ex09_the_counted_loop/ex09_the_counted_loop.vbproj" />
+  <Project Path="ex10_the_bound_is_read_once/ex10_the_bound_is_read_once.vbproj" />
+  <Project Path="ex11_the_loop_variable/ex11_the_loop_variable.vbproj" />
+  <Project Path="ex12_do_while_tests_first/ex12_do_while_tests_first.vbproj" />
+  <Project Path="ex13_do_loop_until_tests_last/ex13_do_loop_until_tests_last.vbproj" />
+  <Project Path="ex14_stopping_a_loop/ex14_stopping_a_loop.vbproj" />
+  <Project Path="ex15_exit_for/ex15_exit_for.vbproj" />
+  <Project Path="ex16_continue_for/ex16_continue_for.vbproj" />
+  <Project Path="ex17_sub_and_function/ex17_sub_and_function.vbproj" />
+  <Project Path="ex18_two_ways_to_return/ex18_two_ways_to_return.vbproj" />
+  <Project Path="ex19_the_discarded_result/ex19_the_discarded_result.vbproj" />
+  <Project Path="ex20_byval/ex20_byval.vbproj" />
+  <Project Path="ex21_byref/ex21_byref.vbproj" />
+  <Project Path="ex22_optional_and_paramarray/ex22_optional_and_paramarray.vbproj" />
+</Solution>

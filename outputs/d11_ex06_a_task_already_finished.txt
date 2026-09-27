@@ -1,0 +1,6 @@
+cached finished  : True
+fetched finished : False
+cached value     : 3,800.00
+fetched value    : 0.00
+both finished    : True and True
+awaiting a finished task costs nothing extra

@@ -1,0 +1,4 @@
+  held 2 line(s)
+  closing after 2 line(s)
+  closing after 1 line(s)
+writing after Dispose : ObjectDisposedException

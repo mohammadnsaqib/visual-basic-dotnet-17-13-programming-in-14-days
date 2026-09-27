@@ -1,0 +1,3 @@
+account : AC-1001
+amount  : 1,200.00
+both were set before any other code could see the object

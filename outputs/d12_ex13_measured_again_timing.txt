@@ -1,0 +1,4 @@
+first  : 0.1183 ms
+second : 0.0030 ms
+same answer : True
+the first run pays for the just-in-time compilation of the method

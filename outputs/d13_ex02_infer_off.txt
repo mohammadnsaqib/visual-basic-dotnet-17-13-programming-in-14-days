@@ -1,0 +1,5 @@
+counted holds a : Int32
+counted holds a : String
+named holds a   : String
+the second assignment compiles only because counted is an Object
+with Option Infer On it would be an Integer, and would not compile

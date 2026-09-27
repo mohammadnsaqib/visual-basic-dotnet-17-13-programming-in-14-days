@@ -1,0 +1,5 @@
+Integer  2147483647
+Long     2147483647
+Double   2147483647
+Decimal  2147483647
+Double kept every digit: True

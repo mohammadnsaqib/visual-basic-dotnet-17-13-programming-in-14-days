@@ -1,0 +1,3 @@
+after BumpByValue : 5
+after BumpByRef   : 6
+array : 100, 201, 301

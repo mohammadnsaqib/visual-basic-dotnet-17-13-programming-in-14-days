@@ -1,0 +1,5 @@
+out : 3 row(s)
+in  : 3 row(s)
+equal rows : 3 of 3
+a decimal with three places survived : 1200.505
+and Nothing came back as Nothing : True

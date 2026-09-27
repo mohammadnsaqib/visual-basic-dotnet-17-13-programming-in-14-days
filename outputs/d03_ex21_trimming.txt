@@ -1,0 +1,5 @@
+raw       : [<tab>  rent  paid <crlf>]
+Trim      : [rent  paid]
+TrimStart : [rent  paid <crlf>]
+TrimEnd   : [<tab>  rent  paid]
+the two spaces between rent and paid are still there: True

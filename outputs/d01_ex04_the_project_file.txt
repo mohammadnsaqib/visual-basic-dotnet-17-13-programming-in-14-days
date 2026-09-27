@@ -1,0 +1,4 @@
+assembly    : ex04_the_project_file
+target      : .NETCoreApp,Version=v10.0
+runtime     : 10.0.12
+the source said none of that

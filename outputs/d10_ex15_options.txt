@@ -1,0 +1,10 @@
+plain:
+  {"Code":"AC-1000","Name":null,"Balance":3800}
+indented:
+  {
+    "Code": "AC-1000",
+    "Name": null,
+    "Balance": 3800
+  }
+nulls left out:
+  {"Code":"AC-1000","Balance":3800}

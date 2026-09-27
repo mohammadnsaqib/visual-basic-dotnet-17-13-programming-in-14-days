@@ -1,0 +1,7 @@
+movements : 4
+codes     : AC-1000, AC-1001
+Distinct on the objects : 4
+Distinct on code and amount : 3
+  AC-1000  1,200.00
+  AC-1001     87.50
+  AC-1000    450.00

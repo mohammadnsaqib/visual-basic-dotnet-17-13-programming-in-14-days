@@ -1,0 +1,6 @@
+text filled   : False
+text          : AC-1000
+number        : 42
+text filled   : False
+filled with   : String and Int32
+one definition: Slot`1

@@ -1,0 +1,6 @@
+type    : DivideByZeroException
+message : Attempted to divide by zero.
+thrown in : Divide
+inherits  : ArithmeticException
+first stack line : at ex02_the_message_and_the_type.Program.Divide(Int32 top, Int32 bottom) in Program.vb:line 6
+the program continues

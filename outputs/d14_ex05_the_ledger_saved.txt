@@ -1,0 +1,6 @@
+opened AC-1000 Cash 250.00
+opened AC-4000 Sales 0.00
+posted opening (2 postings)
+saved books.json, 2 account(s), 2 posting(s)
+bytes on disk : 399
+lines in it   : 26

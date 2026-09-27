@@ -1,0 +1,6 @@
+p Equals q : False
+p Is q     : False
+p Equals r : True
+p Is r     : True
+Money Equals Money : True
+Money hashes match : True

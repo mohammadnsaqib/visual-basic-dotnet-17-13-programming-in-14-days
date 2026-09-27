@@ -1,0 +1,3 @@
+through the class     : invoice: September rent
+through the interface : invoice: September rent
+one method, reached by two names

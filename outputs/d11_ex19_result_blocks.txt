@@ -1,0 +1,6 @@
+synchronisation context : none
+Result gave  : 3,800.00 after 71 ms
+the thread was held for all of it
+and so did GetResult : 3,800.00
+a console program has no context, so this waits rather than deadlocking
+under a context that runs one thing at a time, it would deadlock

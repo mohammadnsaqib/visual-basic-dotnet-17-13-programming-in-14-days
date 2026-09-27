@@ -1,0 +1,1 @@
+Program.vb(7,28): error BC33033: Matching '<>' operator is required for 'Public Shared Operator =(left As Ratio, right As Ratio) As Boolean'.

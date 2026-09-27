@@ -1,0 +1,4 @@
+0.1 + 0.2 as a Double : 0.30000000000000004
+Double      : Assert.AreEqual failed. Expected:<0.3>. Actual:<0.30000000000000004>. 'expected' expression: '0.3', 'actual' expression: 'total'.
+0.1 + 0.2 as a Decimal: 0.3
+Decimal     : passed

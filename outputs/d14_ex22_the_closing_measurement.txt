@@ -1,0 +1,8 @@
+library files   : 12
+library lines   : 967
+public types    : 18
+test files      : 3
+test lines      : 161
+test methods    : 10
+the books still balance : True
+and the shell still answers : True

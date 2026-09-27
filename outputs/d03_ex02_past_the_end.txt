@@ -1,0 +1,4 @@
+scores(4) is 0, the last element
+asking for scores(5):
+Unhandled exception. System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ex02_past_the_end.Program.Main() in Program.vb:line 9

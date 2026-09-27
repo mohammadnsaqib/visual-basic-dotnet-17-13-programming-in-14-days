@@ -1,0 +1,24 @@
+<Solution>
+  <Project Path="../tally/tally.vbproj" />
+  <Project Path="../tally.tests/tally.tests.vbproj" />
+  <Project Path="ex01_hello/ex01_hello.vbproj" />
+  <Project Path="ex02_the_entry_point/ex02_the_entry_point.vbproj" />
+  <Project Path="ex03_statements_and_comments/ex03_statements_and_comments.vbproj" />
+  <Project Path="ex04_the_project_file/ex04_the_project_file.vbproj" />
+  <Project Path="ex06_declaring_a_variable/ex06_declaring_a_variable.vbproj" />
+  <Project Path="ex07_inference/ex07_inference.vbproj" />
+  <Project Path="ex08_strict_off/ex08_strict_off.vbproj" />
+  <Project Path="ex10_the_numeric_types/ex10_the_numeric_types.vbproj" />
+  <Project Path="ex11_integer_overflow/ex11_integer_overflow.vbproj" />
+  <Project Path="ex12_decimal_against_double/ex12_decimal_against_double.vbproj" />
+  <Project Path="ex13_widening/ex13_widening.vbproj" />
+  <Project Path="ex14_widening_that_loses/ex14_widening_that_loses.vbproj" />
+  <Project Path="ex15_three_ways_to_convert/ex15_three_ways_to_convert.vbproj" />
+  <Project Path="ex16_building_a_string/ex16_building_a_string.vbproj" />
+  <Project Path="ex17_interpolation_formats/ex17_interpolation_formats.vbproj" />
+  <Project Path="ex18_char_and_code_point/ex18_char_and_code_point.vbproj" />
+  <Project Path="ex19_nothing_in_a_reference/ex19_nothing_in_a_reference.vbproj" />
+  <Project Path="ex20_nothing_in_a_value/ex20_nothing_in_a_value.vbproj" />
+  <Project Path="ex21_is_nothing_against_equals/ex21_is_nothing_against_equals.vbproj" />
+  <Project Path="ex22_the_type_table/ex22_the_type_table.vbproj" />
+</Solution>

@@ -1,0 +1,7 @@
+any large  : True, after 1 test(s)
+all large  : False, after 2 test(s)
+any at all : True
+any of nothing : False
+all of nothing : True
+First of nothing : InvalidOperationException
+FirstOrDefault   : 0.00

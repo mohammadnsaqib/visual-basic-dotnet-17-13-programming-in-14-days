@@ -1,0 +1,2 @@
+Program.vb(10,9): warning BC42029: 'Catch' block never reached, because 'FormatException' inherits from 'Exception'.
+Build succeeded.

@@ -1,0 +1,3 @@
+  3 field(s) : [AC-1000] [Cash] [3800.00]
+  3 field(s) : [AC-1001] [Rent, rates and water] [1200.00]
+  3 field(s) : [AC-4000] [Sales of "goods"] [-5000.00]

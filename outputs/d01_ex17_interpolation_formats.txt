@@ -1,0 +1,7 @@
+plain      |1234.5|
+two places |1234.50|
+grouped    |1,234.50|
+right 14   |      1,234.50|
+left 14    |1,234.50      |
+as money   |£1,234.50|
+an escape  |{not a hole}|

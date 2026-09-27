@@ -1,0 +1,6 @@
+first  : general, 3
+second : petty cash, 11
+after changing the first:
+first  : 4
+second : 11
+same object: False

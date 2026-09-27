@@ -1,0 +1,4 @@
+inside, i is 1
+inside, i is 2
+inside, i is 3
+j was declared outside, and after the loop it is 4

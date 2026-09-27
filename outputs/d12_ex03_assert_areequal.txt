@@ -1,0 +1,9 @@
+passed
+failed : Assert.AreEqual failed. Expected:<1200>. Actual:<1100>. 'expected' expression: '1200D', 'actual' expression: '1100D'.
+failed : Assert.AreEqual failed. Expected string length 4 but was 10. 'expected' expression: '"Cash"', 'actual' expression: '"Petty cash"'.
+Expected: "Cash"
+But was:  "Petty cash"
+-----------^
+failed : Assert.AreEqual failed. Expected:<1200>. Actual:<1100>. 'expected' expression: '1200D', 'actual' expression: '1100D'. the rent posting is wrong
+failed : Assert.IsTrue failed. 'condition' expression: '1100D >= 1200D'.
+failed : Assert.IsTrue failed. 'condition' expression: '1100D >= 1200D'. the balance is below the floor

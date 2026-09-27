@@ -1,0 +1,8 @@
+Basic has 5 characters
+  index 0: B is code point 66
+  index 1: a is code point 97
+  index 2: s is code point 115
+  index 3: i is code point 105
+  index 4: c is code point 99
+ChrW(66) is B
+a Char occupies 2 bytes, not 1

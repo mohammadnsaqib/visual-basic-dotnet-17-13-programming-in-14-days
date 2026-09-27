@@ -1,0 +1,8 @@
+count 0 : capacity 0
+count  1 : capacity grew to 4
+count  5 : capacity grew to 8
+count  9 : capacity grew to 16
+count 17 : capacity grew to 32
+count 33 : capacity grew to 64
+asked for 40 in advance : capacity 40
+after 40 adds           : capacity 40

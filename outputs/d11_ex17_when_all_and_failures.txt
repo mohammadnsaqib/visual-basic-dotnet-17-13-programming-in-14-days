@@ -1,0 +1,6 @@
+Await reported : AC-1001 failed
+the task faulted : True
+failures held    : 2
+  AC-1001 failed
+  AC-4000 failed
+Await gives the first; the AggregateException gives all of them

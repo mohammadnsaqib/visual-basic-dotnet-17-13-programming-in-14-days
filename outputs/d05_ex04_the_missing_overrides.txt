@@ -1,0 +1,2 @@
+Program.vb(12,21): warning BC40005: function 'Describe' shadows an overridable method in the base class 'Document'. To override the base method, this method must be declared 'Overrides'.
+Build succeeded.

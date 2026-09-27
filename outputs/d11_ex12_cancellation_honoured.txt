@@ -1,0 +1,3 @@
+stopped : TaskCanceledException
+asked to stop : True
+the work stopped because it was looking at the token

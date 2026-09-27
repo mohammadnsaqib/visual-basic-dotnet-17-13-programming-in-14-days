@@ -1,0 +1,4 @@
+bytes written : 28
+  AC-1000 Cash
+  AC-1001 Rent
+the writer and the reader were each closed by their own End Using

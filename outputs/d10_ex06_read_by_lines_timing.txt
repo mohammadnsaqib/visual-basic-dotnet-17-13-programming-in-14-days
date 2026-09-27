@@ -1,0 +1,5 @@
+ReadLines     : 16.7 ms
+lines         : 200000
+widest line   : 20 characters
+allocated     : 12492 KB
+alive at once : 275 KB

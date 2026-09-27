@@ -1,0 +1,13 @@
+> opne AC-1001 Rent
+  error: opne is not a command; try help
+> open AC-1001
+  error: open needs a code and a name
+> open AC-1001 Rent lots
+  error: lots is not an amount
+> post rent; credit AC-1000 1200
+  error: post needs a memo and at least two postings
+> post rent; sideways AC-1000 10; debit AC-1000 10
+  error: sideways is not debit or credit
+> statement AC-9999
+  error: AC-9999 is not open
+accounts after all that : 1

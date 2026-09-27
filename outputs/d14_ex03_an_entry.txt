@@ -1,0 +1,6 @@
+memo     : September rent
+postings : 2
+  Credit AC-1000      1,200.00
+  Debit  AC-1001      1,200.00
+net      : 0.00
+as text  : September rent (2 postings)

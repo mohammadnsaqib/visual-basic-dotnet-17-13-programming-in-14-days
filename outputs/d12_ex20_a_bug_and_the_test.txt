@@ -1,0 +1,4 @@
+it still refuses : the entry is out by 100.00
+the second assertion : Assert.AreEqual failed. Expected:<0>. Actual:<2>. 'expected' expression: '0', 'actual' expression: 'hasty.Postings'.
+postings left behind : 2
+balance left behind  : 100.00

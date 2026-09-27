@@ -1,0 +1,5 @@
+Code    : [AC-1001]
+Name    : [Rent]
+Balance : 0.00
+ToString: AC-1001 Rent 0.00
+refused : code -- an account needs a code (Parameter 'code')

@@ -1,0 +1,6 @@
+after two WriteLines : 0 bytes
+after Flush          : 25 bytes
+after Dispose        : 39 bytes
+  code,name
+  AC-1000,Cash
+  AC-1001,Rent

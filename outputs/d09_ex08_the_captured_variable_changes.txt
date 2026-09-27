@@ -1,0 +1,4 @@
+with floor 500.00 : 1200, 900
+with floor 1,000.00 : 1200
+with floor 0.00 : 120, 1200, 87.5, 900
+one query, three answers, and the query was written once

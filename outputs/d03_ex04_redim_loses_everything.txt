@@ -1,0 +1,3 @@
+before      : 1, 2, 3
+after ReDim : 0, 0, 0, 0, 0
+Length is now 5, and every element is 0

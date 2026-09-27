@@ -1,0 +1,4 @@
+  Cash      1,200.00
+  Sales       900.00
+  Rent         87.50
+rows : 3

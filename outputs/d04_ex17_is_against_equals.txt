@@ -1,0 +1,5 @@
+a Is b        : False
+a Is c        : True
+a.Equals(b)   : False
+same contents : True
+two objects holding the same number are still two objects

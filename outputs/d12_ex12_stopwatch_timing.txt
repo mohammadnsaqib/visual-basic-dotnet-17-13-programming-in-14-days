@@ -1,0 +1,4 @@
+answer   : 12500002500000
+elapsed  : 17.53 ms
+resolution: high
+ticks per second : 10000000

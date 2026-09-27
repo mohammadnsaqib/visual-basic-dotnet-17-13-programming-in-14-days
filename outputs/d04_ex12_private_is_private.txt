@@ -1,0 +1,1 @@
+Program.vb(18,9): error BC30389: 'ex12_private_is_private.Ledger._entries' is not accessible in this context because it is 'Private'.

@@ -1,0 +1,7 @@
+postings in all : 6
+at least 1000   : 4
+  Debit  AC-1000      5,000.00
+  Credit AC-4000      5,000.00
+  Credit AC-1000      1,200.00
+  Debit  AC-1001      1,200.00
+they move       : 12,400.00

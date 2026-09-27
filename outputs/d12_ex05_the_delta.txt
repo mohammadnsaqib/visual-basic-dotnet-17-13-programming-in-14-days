@@ -1,0 +1,6 @@
+the difference : 5.55E-017
+no tolerance            : failed
+delta 0.000000000000001 : passed
+delta 0.0000001         : passed
+delta 1.0               : passed
+the last one passes for 1.29 as well, and proves nothing

@@ -1,0 +1,6 @@
+amounts : 1,200.00, 87.50, 0.12
+total   : 1,287.62
+largest : 1,200.00
+equal   : True
+rounded : 0.12 and 0.14
+a value : True

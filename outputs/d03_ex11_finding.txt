@@ -1,0 +1,7 @@
+IndexOf(".")      : 20
+IndexOf(",")      : 10
+LastIndexOf(",")  : 15
+IndexOf("zzz")    : -1
+Contains("rent")  : True
+StartsWith("2026"): True
+Substring(0, first): 2026-09-10

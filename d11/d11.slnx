@@ -1,0 +1,26 @@
+<Solution>
+  <Project Path="../tally/tally.vbproj" />
+  <Project Path="../tally.tests/tally.tests.vbproj" />
+  <Project Path="ex01_waiting_timing/ex01_waiting_timing.vbproj" />
+  <Project Path="ex02_awaiting_timing/ex02_awaiting_timing.vbproj" />
+  <Project Path="ex03_async_function/ex03_async_function.vbproj" />
+  <Project Path="ex04_await_in_the_middle/ex04_await_in_the_middle.vbproj" />
+  <Project Path="ex05_the_thread_before_and_after/ex05_the_thread_before_and_after.vbproj" />
+  <Project Path="ex06_a_task_already_finished/ex06_a_task_already_finished.vbproj" />
+  <Project Path="ex07_task_run/ex07_task_run.vbproj" />
+  <Project Path="ex08_three_in_sequence_timing/ex08_three_in_sequence_timing.vbproj" />
+  <Project Path="ex09_three_at_once_timing/ex09_three_at_once_timing.vbproj" />
+  <Project Path="ex10_when_all/ex10_when_all.vbproj" />
+  <Project Path="ex11_when_any/ex11_when_any.vbproj" />
+  <Project Path="ex12_cancellation_honoured/ex12_cancellation_honoured.vbproj" />
+  <Project Path="ex13_cancellation_ignored/ex13_cancellation_ignored.vbproj" />
+  <Project Path="ex14_throwifcancellationrequested/ex14_throwifcancellationrequested.vbproj" />
+  <Project Path="ex15_an_exception_in_a_task/ex15_an_exception_in_a_task.vbproj" />
+  <Project Path="ex16_the_exception_never_awaited/ex16_the_exception_never_awaited.vbproj" />
+  <Project Path="ex17_when_all_and_failures/ex17_when_all_and_failures.vbproj" />
+  <Project Path="ex18_async_sub/ex18_async_sub.vbproj" />
+  <Project Path="ex19_result_blocks/ex19_result_blocks.vbproj" />
+  <Project Path="ex20_configureawait/ex20_configureawait.vbproj" />
+  <Project Path="ex21_reading_a_file_timing/ex21_reading_a_file_timing.vbproj" />
+  <Project Path="ex22_the_ledger_saved_async/ex22_the_ledger_saved_async.vbproj" />
+</Solution>

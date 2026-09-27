@@ -1,0 +1,6 @@
+calling the Sub:
+  the caller carried on, with nothing to wait for
+  the Sub finished
+calling the Function:
+  the Function finished
+  the caller waited, because there was something to wait for

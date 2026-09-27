@@ -1,0 +1,6 @@
+runs    : 10
+fastest : 5.34 ms
+slowest : 6.05 ms
+mean    : 5.78 ms
+spread  : 0.70 ms
+the work did not change; the machine did

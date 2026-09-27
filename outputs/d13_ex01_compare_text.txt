@@ -1,0 +1,6 @@
+held = asked          : True
+held < asked          : False
+String.Equals ordinal : False
+String.Equals ignoring: True
+CompareTo             : -1
+this project sets Option Compare Text, and = is the line that moved

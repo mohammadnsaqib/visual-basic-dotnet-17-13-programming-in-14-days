@@ -1,0 +1,5 @@
+  0 -> zero
+  3 -> one to five
+  7 -> six, seven or eight
+ 12 -> something else
+ 99 -> over fifty

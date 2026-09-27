@@ -1,0 +1,9 @@
+  Add AC-1000 : True
+  Add AC-1001 : True
+  Add AC-1000 : False
+  Add AC-2000 : True
+  Add AC-1001 : False
+arrived : 5
+held    : 3
+contains AC-2000 : True
+in both : AC-2000

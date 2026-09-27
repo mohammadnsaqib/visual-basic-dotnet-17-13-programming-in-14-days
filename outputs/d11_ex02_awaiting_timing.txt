@@ -1,0 +1,3 @@
+waited for  : 450 ms of work
+took        : 470 ms
+awaiting one after another is still one after another

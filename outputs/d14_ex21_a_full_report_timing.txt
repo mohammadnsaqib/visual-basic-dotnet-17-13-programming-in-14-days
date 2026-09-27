@@ -1,0 +1,6 @@
+accounts : 20
+postings : 2000
+building : 3.6 ms
+report   : 0.2 ms, 14 line(s)
+balance  : 0.00
+the warming run gave the same 14 line(s)

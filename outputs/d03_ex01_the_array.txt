@@ -1,0 +1,6 @@
+declared as scores(4)
+Length      : 5
+first index : 0
+last index  : 4
+contents    : 10, 20, 30, 40, 50
+a literal of 3 has Length 3

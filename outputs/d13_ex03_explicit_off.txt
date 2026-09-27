@@ -1,0 +1,4 @@
+balance : 1288
+blance  : []
+blance is : Nothing
+the second name was never declared, and nothing said so

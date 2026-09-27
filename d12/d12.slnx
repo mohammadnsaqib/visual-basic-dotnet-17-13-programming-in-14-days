@@ -1,0 +1,23 @@
+<Solution>
+  <Project Path="../tally/tally.vbproj" />
+  <Project Path="../tally.tests/tally.tests.vbproj" />
+  <Project Path="ex02_assert_is_a_class/ex02_assert_is_a_class.vbproj" />
+  <Project Path="ex03_assert_areequal/ex03_assert_areequal.vbproj" />
+  <Project Path="ex04_areequal_on_a_double/ex04_areequal_on_a_double.vbproj" />
+  <Project Path="ex05_the_delta/ex05_the_delta.vbproj" />
+  <Project Path="ex06_assert_throws/ex06_assert_throws.vbproj" />
+  <Project Path="ex07_the_exception_not_thrown/ex07_the_exception_not_thrown.vbproj" />
+  <Project Path="ex08_four_rows/ex08_four_rows.vbproj" />
+  <Project Path="ex10_a_test_that_proves_nothing/ex10_a_test_that_proves_nothing.vbproj" />
+  <Project Path="ex11_the_boundary/ex11_the_boundary.vbproj" />
+  <Project Path="ex12_stopwatch_timing/ex12_stopwatch_timing.vbproj" />
+  <Project Path="ex13_measured_again_timing/ex13_measured_again_timing.vbproj" />
+  <Project Path="ex14_the_variation_timing/ex14_the_variation_timing.vbproj" />
+  <Project Path="ex15_allocated_bytes/ex15_allocated_bytes.vbproj" />
+  <Project Path="ex16_allocating_or_not/ex16_allocating_or_not.vbproj" />
+  <Project Path="ex17_a_string_built_two_ways/ex17_a_string_built_two_ways.vbproj" />
+  <Project Path="ex18_the_balance_checked/ex18_the_balance_checked.vbproj" />
+  <Project Path="ex19_the_unbalanced_entry_checked/ex19_the_unbalanced_entry_checked.vbproj" />
+  <Project Path="ex20_a_bug_and_the_test/ex20_a_bug_and_the_test.vbproj" />
+  <Project Path="ex21_the_test_that_misses_it/ex21_the_test_that_misses_it.vbproj" />
+</Solution>

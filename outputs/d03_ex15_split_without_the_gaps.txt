@@ -1,0 +1,5 @@
+fields kept : 3
+  2026-09-10 | rent | 1200.00
+the amount is now field 2, and in the full split it was field 4
+  full split field 4 : [1200.00]
+  kept split field 2 : [1200.00]

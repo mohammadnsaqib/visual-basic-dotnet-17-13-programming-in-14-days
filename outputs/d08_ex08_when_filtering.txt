@@ -1,0 +1,3 @@
+  AC-9999 : retrying, because it is only locked
+  AC-1000 : giving up on the disk is full
+one type of exception, two decisions

@@ -1,0 +1,4 @@
+start   : 0
+set to 5: 5
+set to -20: -20
+nothing in the class had a chance to object

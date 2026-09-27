@@ -1,0 +1,7 @@
+balance : 3,800.00
+about to ask for a member that does not exist
+Unhandled exception. System.MissingMemberException: Public member 'Overdraft' on type 'Account' not found.
+   at Microsoft.VisualBasic.CompilerServices.Symbols.Container.GetMembers(String& memberName, Boolean reportErrors)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.ObjectLateGet(Object instance, Type type, String memberName, Object[] arguments, String[] argumentNames, Type[] typeArguments, Boolean[] copyBack)
+   at Microsoft.VisualBasic.CompilerServices.NewLateBinding.LateGet(Object Instance, Type Type, String MemberName, Object[] Arguments, String[] ArgumentNames, Type[] TypeArguments, Boolean[] CopyBack)
+   at ex05_late_binding_fails_at_run_time.Program.Main() in Program.vb:line 11

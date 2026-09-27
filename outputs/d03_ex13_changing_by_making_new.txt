@@ -1,0 +1,6 @@
+Replace   : AC/1001
+Insert    : AC-X1001
+Remove    : AC1001
+PadLeft   : [   AC-1001]
+PadRight  : [AC-1001...]
+the original is still AC-1001

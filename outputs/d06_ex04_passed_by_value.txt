@@ -1,0 +1,6 @@
+structure before : 10
+  inside Bump, the structure now reads 11
+structure after  : 10
+object before    : 10
+  inside Bump, the object now reads    11
+object after     : 11

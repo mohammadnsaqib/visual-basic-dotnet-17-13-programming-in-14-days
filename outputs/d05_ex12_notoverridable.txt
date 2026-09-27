@@ -1,0 +1,3 @@
+as a CreditNote : credit note
+as a Document   : invoice
+Overrides was closed off, so only Shadows was left

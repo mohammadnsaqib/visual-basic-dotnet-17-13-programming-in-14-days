@@ -1,0 +1,5 @@
+after building        : 0 test(s)
+count is 3, and tests are now 4
+sum is 2,220.00, and tests are now 8
+ToList then count and sum:
+  count 3, sum 2,220.00, tests 4

@@ -1,0 +1,1 @@
+Program.vb(9,16): error BC30456: 'CompareTo' is not a member of 'T'.

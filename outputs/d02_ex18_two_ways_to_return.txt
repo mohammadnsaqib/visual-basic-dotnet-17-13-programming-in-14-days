@@ -1,0 +1,3 @@
+WithReturn(9)   = 81
+WithTheName(9)  = 81
+NeverAssigned() = 0

@@ -1,0 +1,5 @@
+opening : 500.00
+after +1200 : 1,700.00
+after -84.50: 1,615.50
+the account prints as: AC-1000 Cash 1,615.50
+Balance has no setter, so nothing outside the class assigned it

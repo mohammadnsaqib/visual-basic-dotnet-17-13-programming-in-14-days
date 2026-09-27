@@ -1,0 +1,3 @@
+TryCast gave Nothing : True
+DirectCast threw     : InvalidCastException
+TryCast asks; DirectCast insists

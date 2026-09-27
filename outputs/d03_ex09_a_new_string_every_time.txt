@@ -1,0 +1,6 @@
+original : [  ledger  ]
+trimmed  : [ledger]
+upper    : [  LEDGER  ]
+replaced : [  journal  ]
+original is unchanged: [  ledger  ]
+same object as trimmed: False

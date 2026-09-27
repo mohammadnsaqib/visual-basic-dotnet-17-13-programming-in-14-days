@@ -1,0 +1,6 @@
+rectangular Length : 12
+rectangular Rank   : 2
+jagged Length      : 3
+jagged Rank        : 1
+objects allocated  : 1 against 4
+rows 0 and 1 have the same length: True

@@ -1,0 +1,3 @@
+    -250 overdrawn
+       0 empty
+    1200 in credit

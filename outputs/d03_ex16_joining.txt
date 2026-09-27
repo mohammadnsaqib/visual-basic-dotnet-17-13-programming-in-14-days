@@ -1,0 +1,5 @@
+comma  : 2026-09-10,rent,1200.00
+pipe   : 2026-09-10 | rent | 1200.00
+one    : only
+none   : []
+a round trip : 3 fields

@@ -1,0 +1,4 @@
+failed  : Assert.ThrowsExactly failed. Expected exception type:<Tally.LedgerError> but no exception was thrown. 'action' expression: 'Sub() books.PostEntry(New Debit("AC-1000", 1200D),
+                                      New Credit("AC-4000", 1200D))'.
+and also: Assert.ThrowsExactly failed. Expected exception type:<System.InvalidOperationException>. Actual exception type:<System.ArgumentException>. 'action' expression: 'Sub() books.Open("AC-1000", "Cash again")'.
+postings applied : 2

@@ -1,0 +1,10 @@
+building the query
+the query is built, and nothing has been tested
+reading the first item
+    testing 120.00
+  first : 120.00
+reading all of them
+    testing 120.00
+    testing 1,200.00
+    testing 87.50
+  count : 2

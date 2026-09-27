@@ -1,0 +1,7 @@
+5 4 3 2 1
+asking for two of three:
+    the iterator is producing 3
+  the loop received 3
+    the iterator is producing 2
+  the loop received 2
+received 2, and the third was never produced

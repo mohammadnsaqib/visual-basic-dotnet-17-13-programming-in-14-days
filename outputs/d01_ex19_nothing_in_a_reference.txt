@@ -1,0 +1,5 @@
+name Is Nothing            : True
+name = an empty String     : True
+asking it for its Length   :
+Unhandled exception. System.NullReferenceException: Object reference not set to an instance of an object.
+   at ex19_nothing_in_a_reference.Program.Main() in Program.vb:line 10

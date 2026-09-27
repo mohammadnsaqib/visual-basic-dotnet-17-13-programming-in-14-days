@@ -1,0 +1,5 @@
+a number   : 4
+not a number: 0
+no item     : 0
+the narrow version let it through : NullReferenceException
+the wide Catch reported 0 for a defect, not for a bad reading

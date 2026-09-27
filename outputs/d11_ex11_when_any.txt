@@ -1,0 +1,5 @@
+first back  : AC-1001 after 40 ms
+slow done   : False
+quick done  : True
+now both    : True and True
+WhenAny does not stop the others; it only stops waiting

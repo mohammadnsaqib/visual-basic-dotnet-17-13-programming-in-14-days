@@ -1,0 +1,4 @@
+  Middle saw it and threw it again
+caught : thrown in Deepest
+  at ex11_throw_ex_losing_the_stack.Program.Middle() in Program.vb:line 14
+  at ex11_throw_ex_losing_the_stack.Program.Main() in Program.vb:line 20

@@ -1,0 +1,8 @@
+types        : 31
+public types : 18
+classes      : 14
+structures   : 1
+enums        : 2
+interfaces   : 1
+public members : 124
+the largest    : Money

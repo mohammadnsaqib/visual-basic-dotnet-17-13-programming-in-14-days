@@ -1,0 +1,12 @@
+<ledger accounts="2">
+  <account code="AC-1000">
+    <name>Cash</name>
+    <balance>3,800.00</balance>
+  </account>
+  <account code="AC-4000">
+    <name>Sales</name>
+    <balance>-3,800.00</balance>
+  </account>
+</ledger>
+accounts attribute : 2
+names              : Cash, Sales

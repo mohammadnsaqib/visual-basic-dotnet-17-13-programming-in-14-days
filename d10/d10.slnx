@@ -1,0 +1,26 @@
+<Solution>
+  <Project Path="../tally/tally.vbproj" />
+  <Project Path="../tally.tests/tally.tests.vbproj" />
+  <Project Path="ex01_path_combine/ex01_path_combine.vbproj" />
+  <Project Path="ex02_the_trailing_separator/ex02_the_trailing_separator.vbproj" />
+  <Project Path="ex03_the_whole_file/ex03_the_whole_file.vbproj" />
+  <Project Path="ex04_appendalltext/ex04_appendalltext.vbproj" />
+  <Project Path="ex05_read_whole_timing/ex05_read_whole_timing.vbproj" />
+  <Project Path="ex06_read_by_lines_timing/ex06_read_by_lines_timing.vbproj" />
+  <Project Path="ex07_streamreader/ex07_streamreader.vbproj" />
+  <Project Path="ex08_streamwriter/ex08_streamwriter.vbproj" />
+  <Project Path="ex09_csv_split_naively/ex09_csv_split_naively.vbproj" />
+  <Project Path="ex10_the_quoted_comma/ex10_the_quoted_comma.vbproj" />
+  <Project Path="ex11_a_parser_that_handles_it/ex11_a_parser_that_handles_it.vbproj" />
+  <Project Path="ex12_json_of_one_object/ex12_json_of_one_object.vbproj" />
+  <Project Path="ex13_json_of_a_list/ex13_json_of_a_list.vbproj" />
+  <Project Path="ex14_what_is_not_written/ex14_what_is_not_written.vbproj" />
+  <Project Path="ex15_options/ex15_options.vbproj" />
+  <Project Path="ex16_deserialising/ex16_deserialising.vbproj" />
+  <Project Path="ex17_the_round_trip/ex17_the_round_trip.vbproj" />
+  <Project Path="ex18_read_with_the_wrong_encoding/ex18_read_with_the_wrong_encoding.vbproj" />
+  <Project Path="ex19_the_byte_order_mark/ex19_the_byte_order_mark.vbproj" />
+  <Project Path="ex20_file_exists/ex20_file_exists.vbproj" />
+  <Project Path="ex21_the_missing_file/ex21_the_missing_file.vbproj" />
+  <Project Path="ex22_the_ledger_saved/ex22_the_ledger_saved.vbproj" />
+</Solution>

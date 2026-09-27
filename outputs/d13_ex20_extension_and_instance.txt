@@ -1,0 +1,4 @@
+the type's own : AC-1000 Cash 3,800.00
+the extension  : from the extension
+no clash       : AC-1000 holds 3,800.00
+the extension was reachable only because its signature differs

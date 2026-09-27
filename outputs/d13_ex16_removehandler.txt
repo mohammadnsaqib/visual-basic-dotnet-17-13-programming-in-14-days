@@ -1,0 +1,4 @@
+  leaving stopped listening after 2
+staying saw : 4
+leaving saw : 2
+a handler nobody removes keeps its object alive for as long as the source lives

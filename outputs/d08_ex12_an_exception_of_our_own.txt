@@ -1,0 +1,11 @@
+balanced:
+  applied, balance 0.00
+out by 100:
+  refused : the entry is out by -100.00
+  account : the entry itself
+account not open:
+  refused : account AC-9999 is not open
+  account : AC-9999
+postings recorded : 2
+balance           : 0.00
+a LedgerError is an : Exception

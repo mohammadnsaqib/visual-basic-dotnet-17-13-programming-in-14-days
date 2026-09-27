@@ -1,0 +1,1 @@
+Program.vb(9,14): error BC30299: 'SpecialDebit' cannot inherit from class 'Debit' because 'Debit' is declared 'NotInheritable'.

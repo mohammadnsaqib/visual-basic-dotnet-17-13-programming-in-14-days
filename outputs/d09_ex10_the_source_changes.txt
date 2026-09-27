@@ -1,0 +1,4 @@
+before : 120, 1200
+after  : 120, 1200, 450
+the list now holds 4 amounts
+the query was not re-written, and its answer changed

@@ -1,0 +1,3 @@
+  Invoice  an invoice
+  Receipt  a receipt
+the two classes share no base class other than Object

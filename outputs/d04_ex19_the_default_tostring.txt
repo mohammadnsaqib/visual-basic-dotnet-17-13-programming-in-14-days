@@ -1,0 +1,4 @@
+ToString  : ex19_the_default_tostring.Ledger
+in a hole : ex19_the_default_tostring.Ledger
+the name is nowhere in either of those
+an Integer's ToString is more useful: 42

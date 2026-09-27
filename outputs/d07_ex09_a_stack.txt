@@ -1,0 +1,7 @@
+held    : 3
+on top  : post 87.50
+  undoing post 87.50
+  undoing post 1200
+  undoing open AC-1000
+empty   : 0
+a queue gives back the oldest, a stack the newest

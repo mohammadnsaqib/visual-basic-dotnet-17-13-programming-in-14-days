@@ -1,0 +1,2 @@
+Program.vb(7,9): error BC30544: Method cannot contain both a 'Try' statement and an 'On Error' or 'Resume' statement.
+Program.vb(9,9): error BC30544: Method cannot contain both a 'Try' statement and an 'On Error' or 'Resume' statement.

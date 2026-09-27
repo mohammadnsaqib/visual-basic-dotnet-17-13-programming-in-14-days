@@ -1,0 +1,5 @@
+en-US ToUpper : INVOICE
+tr-TR ToUpper : İNVOİCE
+Invariant     : INVOICE
+the two agree : False
+Turkish has a dotted capital I, so the i does not fold the same way

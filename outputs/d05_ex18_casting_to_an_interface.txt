@@ -1,0 +1,3 @@
+DirectCast worked : an invoice
+TryCast worked    : True
+and it says       : an invoice

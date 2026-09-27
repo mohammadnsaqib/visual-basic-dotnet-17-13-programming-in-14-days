@@ -1,0 +1,4 @@
+before : 0
+after  : 3
+reached through the type, not an instance
+a Is b : False   b Is c : False   (three objects)

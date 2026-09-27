@@ -1,0 +1,9 @@
+count   : 5
+sum     : 3,837.50
+average : 767.50
+largest : 1,200.00
+smallest: 87.50
+at least 500 : 3
+the Aggregate query gives 3,837.50 and 767.50
+sum of nothing : 0.00
+average of nothing : InvalidOperationException

@@ -1,0 +1,5 @@
+10       total now 10, Err.Number 0
+twenty   total now 10, Err.Number 13
+30       total now 40, Err.Number 0
+total : 40
+the failing line was skipped and the loop carried on

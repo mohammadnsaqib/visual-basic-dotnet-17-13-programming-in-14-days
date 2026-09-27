@@ -1,0 +1,7 @@
+plain                   : C:\books\day10\ledger.csv
+trailing separator      : C:\books\day10\ledger.csv
+empty part              : C:\books\ledger.csv
+second part is rooted   : D:\other\ledger.csv
+second part is root-relative: \ledger.csv
+is it rooted : True
+separator    : [\]

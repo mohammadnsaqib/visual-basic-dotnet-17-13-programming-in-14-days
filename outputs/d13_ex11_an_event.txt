@@ -1,0 +1,6 @@
+with nobody listening:
+  nothing was printed, and nothing failed
+with one listener:
+  reached 1
+  reached 2
+  reached 3

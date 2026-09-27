@@ -1,0 +1,5 @@
+   1,200.00  1,200.00 : passed
+     500.00    500.00 : passed
+       0.50      0.50 : passed
+      87.50     87.50 : passed
+four rows, four results, and one piece of code

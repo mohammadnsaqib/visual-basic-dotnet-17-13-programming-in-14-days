@@ -1,0 +1,5 @@
+context here : none
+with    : resumed on a pool thread : True
+without : resumed on a pool thread : True
+with no context to return to, the two behave alike here
+in a library, ConfigureAwait(False) is the safe default

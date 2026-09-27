@@ -1,0 +1,4 @@
+accounts  : 3
+negative  : AC-4000
+total     : 0.00
+by kind   : asset=1, expense=1, income=1

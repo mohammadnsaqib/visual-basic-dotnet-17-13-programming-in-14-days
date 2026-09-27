@@ -1,0 +1,12 @@
+type     kind        bytes  default
+Byte     value           1  0
+Short    value           2  0
+Integer  value           4  0
+Long     value           8  0
+Single   value           4  0
+Double   value           8  0
+Decimal  value          16  0
+Boolean  value           1  False
+Char     value           2  (code unit 0)
+Date     value           8  1/1/0001 12:00:00 AM
+String   reference          (Nothing)

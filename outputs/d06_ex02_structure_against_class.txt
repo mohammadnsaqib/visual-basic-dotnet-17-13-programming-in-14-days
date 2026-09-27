@@ -1,0 +1,6 @@
+structure v1.First : 1
+structure v2.First : 99
+class     o1.First : 99
+class     o2.First : 99
+the two structures differ : True
+the two objects are one   : True

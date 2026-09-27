@@ -1,0 +1,5 @@
+the Long        9007199254740993
+widened to Double and back 9007199254740992
+same value      False
+difference      1
+Long to Double is a widening conversion, and it lost a digit

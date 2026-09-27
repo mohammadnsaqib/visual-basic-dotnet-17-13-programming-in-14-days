@@ -1,0 +1,6 @@
+debits 1200, credits 1200
+balance    : 0
+is balanced: True
+after changing credits to 900:
+balance    : 300
+is balanced: False

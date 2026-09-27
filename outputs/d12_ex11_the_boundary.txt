@@ -1,0 +1,5 @@
+     999.99 ->     0.00  as expected
+   1,000.00 ->     0.00  as expected
+   1,000.01 ->    20.00  as expected
+   2,000.00 ->    40.00  as expected
+1000.00 pays nothing and 1000.01 pays, which is what > means

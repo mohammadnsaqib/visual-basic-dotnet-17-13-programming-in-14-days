@@ -1,0 +1,4 @@
+Title    : September rent
+Amount   : 1,200.00
+Describe : document: September rent
+Title and Describe were not written in Invoice

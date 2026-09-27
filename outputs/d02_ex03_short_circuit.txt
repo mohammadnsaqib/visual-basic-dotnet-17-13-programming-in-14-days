@@ -1,0 +1,3 @@
+False AndAlso Costly(True) -> False, Costly ran 0 time(s)
+True OrElse Costly(True)   -> True, Costly ran 0 time(s)
+True AndAlso Costly(False) -> False, Costly ran 1 time(s)

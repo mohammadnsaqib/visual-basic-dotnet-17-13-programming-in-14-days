@@ -1,0 +1,3 @@
+as IDescribable : invoice: rent
+as IStorable    : rent,1200.00
+same object     : True

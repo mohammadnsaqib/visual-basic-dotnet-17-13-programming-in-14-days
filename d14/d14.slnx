@@ -1,0 +1,26 @@
+<Solution>
+  <Project Path="../tally/tally.vbproj" />
+  <Project Path="../tally.tests/tally.tests.vbproj" />
+  <Project Path="ex01_the_requirement/ex01_the_requirement.vbproj" />
+  <Project Path="ex02_money_in_use/ex02_money_in_use.vbproj" />
+  <Project Path="ex03_an_entry/ex03_an_entry.vbproj" />
+  <Project Path="ex04_the_invariant_enforced/ex04_the_invariant_enforced.vbproj" />
+  <Project Path="ex05_the_ledger_saved/ex05_the_ledger_saved.vbproj" />
+  <Project Path="ex06_the_ledger_loaded/ex06_the_ledger_loaded.vbproj" />
+  <Project Path="ex07_the_missing_file/ex07_the_missing_file.vbproj" />
+  <Project Path="ex08_a_command_parsed/ex08_a_command_parsed.vbproj" />
+  <Project Path="ex09_a_bad_command/ex09_a_bad_command.vbproj" />
+  <Project Path="ex10_the_help_text/ex10_the_help_text.vbproj" />
+  <Project Path="ex11_the_trial_balance/ex11_the_trial_balance.vbproj" />
+  <Project Path="ex12_the_statement/ex12_the_statement.vbproj" />
+  <Project Path="ex13_a_filtered_report/ex13_a_filtered_report.vbproj" />
+  <Project Path="ex14_an_error_for_each_failure/ex14_an_error_for_each_failure.vbproj" />
+  <Project Path="ex15_the_unbalanced_entry/ex15_the_unbalanced_entry.vbproj" />
+  <Project Path="ex16_the_suite_covers/ex16_the_suite_covers.vbproj" />
+  <Project Path="ex17_a_session/ex17_a_session.vbproj" />
+  <Project Path="ex18_the_line_count/ex18_the_line_count.vbproj" />
+  <Project Path="ex19_the_type_count/ex19_the_type_count.vbproj" />
+  <Project Path="ex20_what_the_book_built/ex20_what_the_book_built.vbproj" />
+  <Project Path="ex21_a_full_report_timing/ex21_a_full_report_timing.vbproj" />
+  <Project Path="ex22_the_closing_measurement/ex22_the_closing_measurement.vbproj" />
+</Solution>

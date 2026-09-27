@@ -1,0 +1,2 @@
+counted: 1 2 3
+last is now 10, and the loop still ran 3 times

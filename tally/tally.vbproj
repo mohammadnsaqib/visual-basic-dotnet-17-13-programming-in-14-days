@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    The book's own library, built a piece at a time from Day 4 to Day 14. It is the one project
+    here that is not a program, so it is the one project that has to say so: everything else
+    takes OutputType from code/Directory.Build.props.
+  -->
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Tally</RootNamespace>
+    <AssemblyName>Tally</AssemblyName>
+  </PropertyGroup>
+
+</Project>

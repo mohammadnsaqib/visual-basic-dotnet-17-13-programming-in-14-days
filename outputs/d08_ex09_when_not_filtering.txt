@@ -1,0 +1,5 @@
+  Main's Try began
+    the filter was asked
+    Inner's Finally ran
+  the second Catch took it
+the filter ran BEFORE Inner's Finally

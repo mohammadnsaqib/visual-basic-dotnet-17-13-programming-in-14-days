@@ -1,0 +1,7 @@
+header  : code,name,balance
+  row 1 : AC-1000,Cash,3800.00
+  row 2 : AC-1001,Rent,1200.00
+rows    : 2
+at the end : True
+the file can be deleted now, because the reader was closed
+still there : False

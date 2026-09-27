@@ -1,0 +1,6 @@
+account          amount
+-----------------------
+rent           1,200.00
+electricity       84.50
+tea                3.75
+the widest account name is 11 characters

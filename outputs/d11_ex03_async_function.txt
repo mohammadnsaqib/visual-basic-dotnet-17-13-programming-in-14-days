@@ -1,0 +1,6 @@
+the call gave a Task(Of Decimal) : True
+finished yet    : False
+after the Await : 3,800.00
+finished now    : True
+status          : RanToCompletion
+a second one    : 0.00

@@ -1,0 +1,8 @@
+wrote ledger.txt
+bytes on disk : 28
+characters    : 28
+first line    : AC-1000 Cash
+lines         : 2
+  AC-1000 Cash
+  AC-1001 Rent
+folder still there : False

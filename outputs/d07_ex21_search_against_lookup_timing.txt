@@ -1,0 +1,4 @@
+200 searches of a list of 200000       : 467.9 ms
+200 lookups in a dictionary of 200000  : 0.07 ms
+both found 200 and 200
+the list read up to each match; the dictionary read one bucket

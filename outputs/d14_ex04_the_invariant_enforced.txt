@@ -1,0 +1,5 @@
+balanced              : rent (2 postings)
+out by 100            : refused, the entry is out by -100.00
+one posting           : refused, an entry needs at least two postings
+no memo               : refused, an entry needs a memo
+an unbalanced entry cannot exist, so no caller has to check for one

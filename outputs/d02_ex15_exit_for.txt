@@ -1,0 +1,2 @@
+Exit For looked at 3 of 5
+the flag looked at 3, and the loop still ran 5 times

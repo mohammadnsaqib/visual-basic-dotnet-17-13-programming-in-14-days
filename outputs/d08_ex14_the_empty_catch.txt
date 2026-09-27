@@ -1,0 +1,5 @@
+quiet total   : 400.00
+honest total:
+  1 of 3 refused
+  came to      400.00
+the second reading has a letter O in it, and both totals are 400.00

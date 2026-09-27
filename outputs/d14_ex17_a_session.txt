@@ -1,0 +1,25 @@
+> open AC-1000 Cash
+opened AC-1000 Cash 0.00
+> open AC-1001 Rent
+opened AC-1001 Rent 0.00
+> open AC-4000 Sales
+opened AC-4000 Sales 0.00
+> post opening; debit AC-1000 5000; credit AC-4000 5000
+posted opening (2 postings)
+> post rent; credit AC-1000 1200; debit AC-1001 1200
+posted rent (2 postings)
+> balance
+Trial balance
+  AC-1000  Cash           3,800.00
+  AC-1001  Rent           1,200.00
+  AC-4000  Sales         -5,000.00
+  total                        0.00
+> statement AC-1001
+AC-1001 Rent
+  Debit  AC-1001      1,200.00
+  balance            1,200.00
+> save books.json
+saved books.json, 3 account(s), 4 posting(s)
+> dance
+error: dance is not a command; try help
+lines typed : 9

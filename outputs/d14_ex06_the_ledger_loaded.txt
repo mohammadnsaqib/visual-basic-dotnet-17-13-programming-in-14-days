@@ -1,0 +1,7 @@
+accounts : 3 and 3
+postings : 4 and 4
+balances : True
+total    : 250.00 and 250.00
+  AC-1000|4050
+  AC-1001|1200
+  AC-4000|-5000

@@ -1,0 +1,6 @@
+public surface:
+  property Name
+  property Entries
+  method   Add
+kept inside:
+  method   Renumber

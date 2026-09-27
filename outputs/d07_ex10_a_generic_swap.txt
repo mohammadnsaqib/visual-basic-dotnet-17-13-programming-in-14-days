@@ -1,0 +1,4 @@
+integers : 2, 1
+strings  : Rent, Cash
+decimals : 87.5, 12.5
+the type argument was written once and inferred twice

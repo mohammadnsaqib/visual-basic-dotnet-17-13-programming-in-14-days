@@ -1,0 +1,7 @@
+  AC-1000 Cash     2 movement(s)
+       1,200.00
+          87.50
+  AC-1001 Rent     0 movement(s)
+  AC-4000 Sales    1 movement(s)
+         900.00
+Rent has none, and it is still in the report

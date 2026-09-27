@@ -1,0 +1,5 @@
+TryGetValue found  : Cash
+TryGetValue missing: [Nothing]
+ContainsKey missing: False
+the indexer threw  : KeyNotFoundException
+ignoring case, ac-1000 : Cash

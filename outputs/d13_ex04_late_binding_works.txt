@@ -1,0 +1,6 @@
+code    : AC-1000
+name    : Cash
+balance : 3,800.00
+after   : 4,000.00
+and     : AC-1000 Cash 4,000.00
+none of these were checked when the program was built

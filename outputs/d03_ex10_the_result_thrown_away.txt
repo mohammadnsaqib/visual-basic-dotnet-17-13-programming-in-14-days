@@ -1,0 +1,2 @@
+after calling Trim and keeping nothing: [  ledger  ]
+after assigning the result            : [ledger]

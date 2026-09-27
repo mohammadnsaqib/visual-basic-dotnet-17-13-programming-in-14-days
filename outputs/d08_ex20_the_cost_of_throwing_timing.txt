@@ -1,0 +1,4 @@
+Parse with a Catch : 328.6 ms, 10000 parsed
+TryParse           : 2.9 ms, 10000 parsed
+throwing cost 112 times as much
+10000 of the 20000 inputs were meant to fail

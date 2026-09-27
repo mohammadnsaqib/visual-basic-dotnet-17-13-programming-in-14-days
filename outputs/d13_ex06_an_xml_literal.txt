@@ -1,0 +1,6 @@
+type      : XElement
+root      : ledger
+accounts  : 2
+first code: AC-1000
+first name: Cash
+no quotes, no escaping, and no string to get wrong

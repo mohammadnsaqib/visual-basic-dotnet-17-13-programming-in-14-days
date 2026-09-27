@@ -1,0 +1,5 @@
+Main's thread     : 2
+the work's thread : 4
+the total         : 500000500000
+finished cleanly  : True
+Task.Run moves work to another thread; Await does not

@@ -1,0 +1,7 @@
+  period 1  AC-1000  1,200.00
+  period 1  AC-1001  1,200.00
+  period 2  AC-1001  1,200.00
+  period 2  AC-4000    450.00
+  period 2  AC-1000     87.50
+  period 3  AC-4000    900.00
+the method form uses ThenByDescending : 6 rows

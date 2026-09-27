@@ -1,0 +1,4 @@
+Program.vb(5,5): error BC30026: 'End Sub' expected.
+Program.vb(8,9): error BC30289: Statement cannot appear within a method body. End of method assumed.
+Program.vb(12,9): error BC30188: Declaration expected.
+Program.vb(13,5): error BC30429: 'End Sub' must be preceded by a matching 'Sub'.

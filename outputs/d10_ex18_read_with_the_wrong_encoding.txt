@@ -1,0 +1,7 @@
+written  : Rent £1,200.00 paid to Ceilidh Müller
+bytes    : 39
+characters written : 37
+as UTF-8   : Rent £1,200.00 paid to Ceilidh Müller
+as Latin-1 : Rent Â£1,200.00 paid to Ceilidh MÃ¼ller
+same text  : False
+characters : 37 and 39

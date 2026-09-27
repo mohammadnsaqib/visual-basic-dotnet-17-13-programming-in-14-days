@@ -1,0 +1,4 @@
+  document: notes
+  invoice: rent
+the array's type is Document[]
+the second item is really a Invoice

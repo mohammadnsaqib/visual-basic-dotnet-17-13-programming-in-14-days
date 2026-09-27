@@ -1,0 +1,3 @@
+Program.vb(7,32): error BC30512: Option Strict On disallows implicit conversions from 'Double' to 'Integer'.
+Program.vb(8,30): error BC30512: Option Strict On disallows implicit conversions from 'Integer' to 'String'.
+Program.vb(9,31): error BC30512: Option Strict On disallows implicit conversions from 'String' to 'Integer'.

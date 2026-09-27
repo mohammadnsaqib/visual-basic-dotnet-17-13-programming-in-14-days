@@ -1,0 +1,5 @@
+same text     : True
+characters    : 16000
+by adding     : 31312 KB
+by a builder  : 63 KB
+adding made 2000 strings and threw 1999 of them away

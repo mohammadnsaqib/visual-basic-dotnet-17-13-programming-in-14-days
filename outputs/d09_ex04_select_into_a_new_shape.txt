@@ -1,0 +1,7 @@
+codes  : AC-1000, AC-1001
+type   : String
+  AC-1000 half 600.00
+  AC-1001 half 43.75
+shape  : { Code = AC-1000, Half = 600 }
+  AC-1000 carries 1,200.00
+  AC-1001 carries 87.50

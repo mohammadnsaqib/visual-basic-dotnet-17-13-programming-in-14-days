@@ -1,0 +1,7 @@
+after an assignment over the same key : Cash at bank
+count : 1
+Add with the same key again:
+Unhandled exception. System.ArgumentException: An item with the same key has already been added. Key: AC-1000
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at ex05_the_duplicate_key.Program.Main() in Program.vb:line 14

@@ -1,0 +1,10 @@
+count    : 4
+first    : AC-1000
+last     : AC-2000
+index of : 3
+contains : False
+after Remove : AC-1000, AC-1001, AC-2000
+sorted       : AC-1000, AC-1001, AC-2000
+  AC-1000
+  AC-1001
+  AC-2000

@@ -1,0 +1,5 @@
+postings : 6
+debits   : 3
+credits  : 3
+net      : 300.00
+the counting loop reads Kind and Signed and names neither class

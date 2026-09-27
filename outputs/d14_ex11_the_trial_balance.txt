@@ -1,0 +1,8 @@
+> balance
+Trial balance
+  AC-1000  Cash           3,712.50
+  AC-1001  Rent           1,287.50
+  AC-4000  Sales         -5,000.00
+  total                        0.00
+accounts open : 4
+Wages was opened and never posted to, so it has no line

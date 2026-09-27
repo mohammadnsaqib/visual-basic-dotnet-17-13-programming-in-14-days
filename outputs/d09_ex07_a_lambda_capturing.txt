@@ -1,0 +1,5 @@
+floor 500.00 : 1200, 900
+doubled  : 240, 2400, 175.0, 1800
+120 is   : small
+1200 is  : large
+the Sub lambda counted : 4

@@ -1,0 +1,10 @@
+> help
+open <code> <name> [opening]     open an account
+post <memo>; <kind> <code> <amount>; ...   post an entry
+balance                          the trial balance
+statement <code>                 one account's postings
+save <file>                      write the ledger
+load <file>                      read it back
+help                             this text
+commands : 7
+the same text from the property : True

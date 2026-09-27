@@ -1,0 +1,5 @@
+good : 1,200.50
+outer message : 'twelve' is not an amount
+inner type    : FormatException
+inner message : The input string 'twelve' was not in a correct format.
+inner of inner: none

@@ -1,0 +1,8 @@
+waiting : 3
+next up : rent
+still   : 3
+  handling rent
+  handling wages
+  handling power
+empty   : 0
+TryDequeue on an empty queue : False

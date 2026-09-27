@@ -1,0 +1,6 @@
+  Debit  AC-1001      1,200.00
+    Signed : 1,200.00
+  Credit AC-1000      1,200.00
+    Signed : -1,200.00
+total signed : 0.00
+both are Posting: True, True

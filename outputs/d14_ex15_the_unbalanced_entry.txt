@@ -1,0 +1,5 @@
+the type refused  : the entry is out by -100.00
+the ledger refused: the entry is out by -100.00
+the shell refused : error: the entry is out by -100.00
+postings recorded : 0
+balance           : 0.00

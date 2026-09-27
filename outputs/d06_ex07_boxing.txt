@@ -1,0 +1,8 @@
+n     : 99
+boxed : 41
+the box holds a : Int32
+which is a value type : True
+unboxed then changed : 7
+the box still holds  : 41
+two boxes of the same number are one object : False
+but they are equal : True

@@ -1,0 +1,8 @@
+  first handler  : 1
+  second handler : running total 1
+  first handler  : 2
+  second handler : running total 3
+  first handler  : 3
+  second handler : running total 6
+total : 6
+both ran for every raise, in the order they were added

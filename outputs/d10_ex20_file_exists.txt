@@ -1,0 +1,6 @@
+there.txt  : True
+absent.txt : False
+a folder   : False
+folder as a folder : True
+read anyway : nothing read
+opened anyway : FileNotFoundException

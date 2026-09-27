@@ -1,0 +1,7 @@
+saved : 578 bytes
+accounts : 2 out, 2 in
+postings : 4 out, 4 in
+balance  : 0.00
+  AC-1000 Cash 3,800.00
+  AC-4000 Sales -3,800.00
+cancelled before writing : TaskCanceledException

@@ -1,0 +1,8 @@
+wanted     : Header, Totals
+as a number: 5
+has Header : True
+has Body   : False
+has Totals : True
+has Footer : False
+Everything : Everything = 15
+None       : None = 0

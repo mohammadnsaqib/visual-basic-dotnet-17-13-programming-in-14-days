@@ -1,0 +1,1 @@
+Program.vb(10,18): error BC30569: 'New' cannot be used on a class that is declared 'MustInherit'.

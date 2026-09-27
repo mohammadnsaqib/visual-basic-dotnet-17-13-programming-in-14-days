@@ -1,0 +1,9 @@
+handlers : 3
+lines    : 6
+  audit:1
+  report:1
+  alarm:1
+  audit:2
+  report:2
+  alarm:2
+the three listeners were not known when the program was written

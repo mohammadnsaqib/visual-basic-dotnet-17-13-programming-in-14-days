@@ -1,0 +1,6 @@
+with a mark : 10 bytes
+without one : 7 bytes
+first bytes : 239 187 191
+read normally  : [AC-1000]
+mark not sought: [﻿AC-1000]
+length as read : 7

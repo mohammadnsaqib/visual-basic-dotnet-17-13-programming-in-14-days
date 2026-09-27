@@ -1,0 +1,6 @@
+structure number field : 0
+structure text field   : [empty]
+class variable         : Nothing
+after assigning Nothing to a structure:
+  number field : 0
+  text field   : [empty]

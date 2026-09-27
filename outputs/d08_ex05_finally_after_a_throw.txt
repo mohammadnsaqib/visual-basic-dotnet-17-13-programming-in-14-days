@@ -1,0 +1,4 @@
+  Inner began
+  Inner's Finally ran
+Main caught : something went wrong inside
+Finally ran before the Catch, and before Main saw anything

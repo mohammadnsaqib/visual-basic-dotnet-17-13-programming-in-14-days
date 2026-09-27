@@ -1,0 +1,9 @@
+accounts : 3
+postings : 4
+  AC-1000 Cash 3,800.00
+  AC-1001 Rent 1,200.00
+  AC-3000 Capital -5,000.00
+balance  : 0.00
+found    : AC-1001 Rent 1,200.00
+missing  : Nothing
+a second AC-1000 : ArgumentException

@@ -1,0 +1,12 @@
+> open AC-1000 Cash 250
+opened AC-1000 Cash 250.00
+> open AC-1001 Rent
+opened AC-1001 Rent 0.00
+> post rent; credit AC-1000 1200; debit AC-1001 1200
+posted rent (2 postings)
+> statement AC-1000
+AC-1000 Cash
+  Credit AC-1000      1,200.00
+  balance             -950.00
+accounts : 2
+postings : 2

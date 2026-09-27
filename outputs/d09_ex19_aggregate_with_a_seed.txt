@@ -1,0 +1,5 @@
+total from a seed of 0 : 1,737.50
+5000 less each of them : 3,262.50
+with no seed : AC-1000 | AC-1001-SUB | AC-4000
+longest code : AC-1001-SUB
+seeded aggregate of nothing : 99.00

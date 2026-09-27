@@ -1,0 +1,9 @@
+count      : 3
+AC-1001    : Rent
+has AC-2000: True
+has AC-9999: False
+after assignment : Rent and rates
+count is still   : 3
+  AC-1000 Cash
+  AC-1001 Rent and rates
+  AC-2000 Sales

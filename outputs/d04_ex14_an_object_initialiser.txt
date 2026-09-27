@@ -1,0 +1,5 @@
+making one with an initialiser:
+  the constructor ran first
+  Name    : general
+  Entries : 3
+the initialiser overwrote what the constructor set

@@ -1,0 +1,5 @@
+200000 rows, 4268276 bytes
+ReadAllText   : 21.1 ms
+characters    : 4268276
+allocated     : 16726 KB
+alive at once : 8612 KB

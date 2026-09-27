@@ -1,0 +1,6 @@
+3          -> Int32
+3.0        -> Double
+3.0D       -> Decimal
+"3"        -> String
+3UL        -> UInt64
+{1, 2, 3}  -> Int32[]

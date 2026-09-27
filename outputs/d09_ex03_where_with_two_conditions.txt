@@ -1,0 +1,5 @@
+one Where with AndAlso : 2
+two Where clauses      : 2
+two chained calls      : 2
+  AC-1001 period 2  1,200.00
+  AC-4000 period 3    900.00

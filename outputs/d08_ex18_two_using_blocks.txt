@@ -1,0 +1,13 @@
+one Using with two resources:
+  first opened
+  second opened
+  the block ran
+  second closed
+  first closed
+and with a failure inside:
+  third opened
+  fourth opened
+  fourth closed
+  third closed
+  caught : inside the block
+the last opened is the first closed, failure or not

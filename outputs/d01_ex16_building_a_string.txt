@@ -1,0 +1,5 @@
+the ledger has 3 entries
+the ledger has 3 entries
+the ledger has 3 entries
+the ledger has 3 entries
+all four equal: True

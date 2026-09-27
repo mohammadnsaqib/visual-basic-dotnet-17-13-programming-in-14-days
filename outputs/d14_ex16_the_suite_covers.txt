@@ -1,0 +1,20 @@
+  Account            named
+  AccountKind        not named
+  AsyncStore         not named
+  AuditLog           not named
+  ByAccount          not named
+  Credit             named
+  Debit              named
+  Entry              named
+  IReport            not named
+  Ledger             named
+  LedgerError        named
+  Money              named
+  Posting            named
+  PostingEventArgs   not named
+  ReportParts        not named
+  Shell              not named
+  Store              not named
+  TrialBalance       not named
+public types : 18
+named by the tests : 8

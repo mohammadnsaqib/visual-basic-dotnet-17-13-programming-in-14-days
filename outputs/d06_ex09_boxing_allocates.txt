@@ -1,0 +1,4 @@
+10000 integers into a List(Of Object)  : 240000 bytes
+10000 integers into a List(Of Integer) : 0 bytes
+per boxed integer : 24 bytes
+both lists hold 10000 and 10000 items

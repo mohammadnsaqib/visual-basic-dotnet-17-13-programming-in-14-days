@@ -1,0 +1,5 @@
+Ordinal          : False
+OrdinalIgnoreCase: True
+the = operator   : False
+Compare ordinal  : -66
+Compare culture  : -1

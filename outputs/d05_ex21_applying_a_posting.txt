@@ -1,0 +1,4 @@
+  AC-1000 Cash -1,200.00
+  AC-1001 Rent 1,200.00
+the two balances add to 0.00
+ApplyTo asked the posting for its sign and did nothing else

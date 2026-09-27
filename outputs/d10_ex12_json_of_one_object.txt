@@ -1,0 +1,5 @@
+json    : {"Code":"AC-1000","Name":"Cash","Balance":3800}
+length  : 47
+code    : AC-1000
+name    : Cash
+balance : 3,800.00

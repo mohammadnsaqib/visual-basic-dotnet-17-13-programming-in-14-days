@@ -1,0 +1,10 @@
+  dance                                                error: dance is not a command; try help
+  open AC-1000 Cash                                    error: AC-1000 is already open
+  open                                                 error: open needs a code and a name
+  post rent; credit AC-1000 1200; debit AC-4000 1100   error: the entry is out by -100.00
+  post rent; credit AC-9999 10; debit AC-1000 10       error: account AC-9999 is not open
+  post rent; credit AC-1000 lots; debit AC-4000 10     error: lots is not an amount
+  statement AC-9999                                    error: AC-9999 is not open
+  load nowhere.json                                    error: nowhere.json is not there
+lines refused : 8 of 8
+books unchanged : 0 posting(s)

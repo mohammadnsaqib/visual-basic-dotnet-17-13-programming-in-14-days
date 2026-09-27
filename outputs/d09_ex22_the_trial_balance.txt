@@ -1,0 +1,12 @@
+Trial balance
+  AC-1000  Cash           3,712.50
+  AC-1001  Rent           1,287.50
+  AC-4000  Sales         -5,000.00
+  total                        0.00
+Postings by account
+  AC-1000    3 posting(s)     3,712.50
+  AC-1001    2 posting(s)     1,287.50
+  AC-4000    1 posting(s)    -5,000.00
+accounts with a balance : 3
+they add to             : 0.00
+Wages was never posted to and is not in the trial balance

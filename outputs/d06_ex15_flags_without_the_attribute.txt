@@ -1,0 +1,5 @@
+marked   : Red, Blue
+unmarked : 5
+the numbers are the same : 5 and 5
+single members still print : Blue and Blue
+HasFlag works on both : True and True

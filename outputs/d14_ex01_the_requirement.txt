@@ -1,0 +1,10 @@
+  Account      present  an account has a code, a name and a balance
+  Money        present  an amount is exact to the penny
+  Posting      present  a posting is a debit or a credit
+  Entry        present  an entry is a set of postings adding to zero
+  Ledger       present  a ledger holds accounts and the postings applied
+  Store        present  the books can be saved and loaded
+  IReport      present  a report is a title and its lines
+  LedgerError  present  a failure in the books is not a failure in the program
+rules   : 8
+missing : 0

@@ -1,0 +1,4 @@
+after three raises : 3
+after removing it  : 3
+a lambda held in a variable : 13
+a lambda written twice is two different handlers

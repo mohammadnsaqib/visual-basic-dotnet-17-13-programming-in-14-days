@@ -1,0 +1,10 @@
+name       : Expense
+number     : 4
+type       : AccountKind
+underlying : Int32
+a value type : True
+every member:
+  Asset     = 1
+  Liability = 2
+  Income    = 3
+  Expense   = 4

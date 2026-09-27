@@ -1,0 +1,6 @@
+about to divide 10 by 2
+  5
+about to divide 10 by 0
+Unhandled exception. System.DivideByZeroException: Attempted to divide by zero.
+   at ex01_an_exception_printed.Program.Divide(Int32 top, Int32 bottom) in Program.vb:line 6
+   at ex01_an_exception_printed.Program.Main() in Program.vb:line 13

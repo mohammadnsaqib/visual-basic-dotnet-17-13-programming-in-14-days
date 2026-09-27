@@ -1,0 +1,1 @@
+Program.vb(17,9): error BC30068: Expression is a value and therefore cannot be the target of an assignment.

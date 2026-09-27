@@ -1,0 +1,5 @@
+made      : 2
+first     : blank
+second    : second
+same one  : False
+New T() compiles only because the constraint promises a constructor

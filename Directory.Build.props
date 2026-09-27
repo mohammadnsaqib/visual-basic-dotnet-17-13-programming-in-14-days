@@ -1,0 +1,42 @@
+<Project>
+
+  <!--
+    One settings file for all 308 example projects and the library beside them, so a `.vbproj`
+    in this book is a single line and every example is compiled the same way. Anything a reader
+    would have to know to reproduce a listing lives here, in one place they can read.
+  -->
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+
+    <!-- OPTION STRICT IS ON FOR EVERY LISTING IN THIS BOOK. Off, Visual Basic converts
+         silently between types and the compiler stops being able to tell the reader that a
+         conversion was a mistake. Day 1 measures what the setting costs and what it buys. -->
+    <OptionStrict>On</OptionStrict>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionInfer>On</OptionInfer>
+    <OptionCompare>Binary</OptionCompare>
+
+    <!-- The examples are console programs, run from a captured harness. No app host is built:
+         it doubles the output size and nothing here launches a .exe. -->
+    <UseAppHost>false</UseAppHost>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <ErrorReport>none</ErrorReport>
+
+    <!-- The book prints compiler diagnostics as evidence, so warnings must survive to be
+         printed. They are never turned into errors: an example that demonstrates a warning
+         has to compile. -->
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <NoWarn></NoWarn>
+
+    <!-- Deterministic output, so two runs of the harness on two machines agree.
+         NOT InvariantGlobalization: this book measures what a culture does to a comparison
+         and to a formatted number, and switching globalization off would make those examples
+         print a result the reader's own machine would not. The examples that care about a
+         culture name it in the program instead. -->
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+
+</Project>

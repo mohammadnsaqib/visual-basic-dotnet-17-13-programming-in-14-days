@@ -1,0 +1,4 @@
+the class    : Ledger
+the instance : general with 3 entries
+its type     : Ledger
+is it a value type: False

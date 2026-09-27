@@ -1,0 +1,3 @@
+Describe through the base variable : an invoice
+Fixed through the base variable    : not overridable
+the call went to the object's own version, not the variable's type

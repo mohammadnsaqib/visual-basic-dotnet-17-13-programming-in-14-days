@@ -1,0 +1,5 @@
+a Equals b : True
+a Equals c : False
+hash a = hash b : True
+the method that answers : ValueType
+a Equals the number 1000 : False

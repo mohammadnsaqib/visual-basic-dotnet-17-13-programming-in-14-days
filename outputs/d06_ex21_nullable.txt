@@ -1,0 +1,11 @@
+known.HasValue   : True
+known.Value      : 42
+missing.HasValue : False
+missing default  : 0
+missing as text  : []
+missing Is Nothing : True
+declared type    : Nullable`1
+underlying type  : Int32
+boxed known   : Int32
+boxed missing : Nothing
+a Money? : 9.99 of type Money

@@ -1,0 +1,8 @@
+Name : general
+Code : GL
+what the compiler generated:
+  method get_Name
+  method set_Name
+  method get_Code
+  field  _Name
+  field  _Code

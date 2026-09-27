@@ -1,0 +1,5 @@
+four assertions, none of which failed
+balance   : 0.00
+cash      : 1,200.00
+sales     : -1,200.00
+postings  : 2

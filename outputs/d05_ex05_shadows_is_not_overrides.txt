@@ -1,0 +1,5 @@
+Describe as Invoice  : an invoice
+Describe as Document : an invoice
+Label    as Invoice  : an invoice label
+Label    as Document : a document label
+one object, and Label answered two different ways

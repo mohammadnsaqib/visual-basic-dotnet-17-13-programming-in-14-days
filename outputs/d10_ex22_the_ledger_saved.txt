@@ -1,0 +1,15 @@
+saved books.json, 664 bytes
+lines : 41
+  {
+    "Accounts": [
+      {
+        "Code": "AC-1000",
+        "Name": "Cash",
+        "Opening": 250
+      },
+accounts : 3 out, 3 in
+postings : 4 out, 4 in
+balance  : 250.00 out, 250.00 in
+  AC-1000 Cash 4,050.00
+  AC-1001 Rent 1,200.00
+  AC-4000 Sales -5,000.00

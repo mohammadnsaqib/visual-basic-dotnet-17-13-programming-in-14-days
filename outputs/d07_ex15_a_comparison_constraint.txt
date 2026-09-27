@@ -1,0 +1,4 @@
+largest number : 17
+largest word   : sales
+largest amount : 87.50
+one procedure, three types, and the comparison is the type's own

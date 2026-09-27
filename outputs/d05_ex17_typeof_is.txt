@@ -1,0 +1,5 @@
+TypeOf bill Is Invoice      : True
+TypeOf bill Is Document     : True
+TypeOf bill Is IDescribable : True
+TypeOf bill Is String       : False
+a plain Document Is IDescribable : False

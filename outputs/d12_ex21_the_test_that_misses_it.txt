@@ -1,0 +1,4 @@
+the weaker test passed
+and the books now hold 2 posting(s)
+with a balance of 100.00
+a passing suite says the cases somebody thought of work

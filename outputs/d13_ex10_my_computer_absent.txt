@@ -1,0 +1,1 @@
+Program.vb(6,44): error BC30456: 'Computer' is not a member of 'ex10_my_computer_absent.My'.

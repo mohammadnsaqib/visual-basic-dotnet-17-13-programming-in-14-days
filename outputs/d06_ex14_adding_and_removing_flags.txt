@@ -1,0 +1,8 @@
+nothing           :  0  None
+add Header        :  1  Header
+add Body, Totals  :  7  Header, Body, Totals
+remove Body       :  5  Header, Totals
+turn over Footer  : 13  Header, Totals, Footer
+and back again    :  5  Header, Totals
+everything        : 15  Everything
+all but Footer    :  7  Header, Body, Totals

@@ -1,0 +1,16 @@
+  Account.vb           59 lines,   30 of them code
+  AsyncStore.vb        45 lines,   26 of them code
+  Entry.vb             52 lines,   31 of them code
+  Events.vb            68 lines,   41 of them code
+  IReport.vb           23 lines,    7 of them code
+  Ledger.vb           124 lines,   82 of them code
+  LedgerError.vb       36 lines,   17 of them code
+  Money.vb            101 lines,   68 of them code
+  Posting.vb           87 lines,   58 of them code
+  Reports.vb           75 lines,   49 of them code
+  Shell.vb            183 lines,  152 of them code
+  Store.vb            114 lines,   79 of them code
+files : 12
+lines : 967
+code  : 640
+the rest is blank lines and comments : 327

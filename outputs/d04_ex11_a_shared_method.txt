@@ -1,0 +1,4 @@
+Parse(" 1,200.50 ") : 1200.50
+Parse("-40")        : -40
+Zero                : 0
+no object was made to call either of those

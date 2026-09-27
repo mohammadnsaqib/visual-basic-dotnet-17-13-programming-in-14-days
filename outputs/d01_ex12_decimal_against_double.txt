@@ -1,0 +1,5 @@
+Double  0.1 + 0.2 = 0.30000000000000004
+Decimal 0.1 + 0.2 = 0.3
+Double  equals 0.3 : False
+Decimal equals 0.3 : True
+ten tenths as Double : 0.9999999999999999

@@ -1,0 +1,5 @@
+Asset     increases with debits
+Liability increases with credits
+Income    increases with credits
+Expense   increases with debits
+kind 99 : ArgumentOutOfRangeException

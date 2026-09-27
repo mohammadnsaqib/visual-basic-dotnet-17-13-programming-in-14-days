@@ -1,0 +1,4 @@
+  AC-1000   2   1,287.50 largest  1,200.00
+  AC-1001   2   2,400.00 largest  1,200.00
+  AC-4000   2   1,350.00 largest    900.00
+total of the totals : 5,037.50

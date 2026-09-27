@@ -1,0 +1,7 @@
+movements : 6
+  AC-1000   1,200.00
+  AC-1001   1,200.00
+  AC-1001   1,200.00
+  AC-4000     900.00
+the query is a sequence : True
+and the source still holds : 6

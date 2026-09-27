@@ -1,0 +1,5 @@
+json : {"Code":"AC-1000","Described":"AC-1000 is derived"}
+with fields : {"Code":"AC-1000","Described":"AC-1000 is derived","Field":"a field, not a property"}
+code      : AC-2000
+described : AC-2000 is derived
+working   : not for the file

@@ -1,0 +1,7 @@
+Fee(2000) is not negative   : passed
+Fee(2000) is a Decimal      : passed
+Fee(2000) is 40.00          : passed
+the first two pass for a Fee that always returns 0:
+  0 >= 0        : True
+  0 is a Decimal: True
+  0 = 40.00     : False

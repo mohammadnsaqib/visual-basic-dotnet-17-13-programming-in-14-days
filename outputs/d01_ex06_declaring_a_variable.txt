@@ -1,0 +1,4 @@
+written  : Int32
+inferred : Int32
+constant : Int32
+all three hold 41

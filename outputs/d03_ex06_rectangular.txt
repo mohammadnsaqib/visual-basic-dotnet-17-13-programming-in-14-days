@@ -1,0 +1,7 @@
+Rank       : 2
+Length     : 12
+rows       : 3
+columns    : 4
+  row 0    : 0 1 2 3
+  row 1    : 10 11 12 13
+  row 2    : 20 21 22 23

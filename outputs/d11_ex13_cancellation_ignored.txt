@@ -1,0 +1,4 @@
+asked to stop after : 60 ms
+steps completed     : 8 of 8
+cancellation asked  : True
+nothing stopped, because nothing was listening

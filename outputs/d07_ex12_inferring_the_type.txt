@@ -1,0 +1,5 @@
+first code   : AC-1000
+first amount : -1
+count codes  : 2
+count empty  : 0
+written out  : AC-1000

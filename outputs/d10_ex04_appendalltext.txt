@@ -1,0 +1,4 @@
+after two appends : 3 line(s)
+after WriteAllText: 1 line(s)
+and it now says   : replaced
+append made a file: True

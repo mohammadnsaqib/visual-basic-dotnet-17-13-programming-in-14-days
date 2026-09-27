@@ -1,0 +1,5 @@
+movements : 3
+rows out  : 2
+total in  : 2,600.00
+total out : 2,100.00
+dropped   : AC-9999

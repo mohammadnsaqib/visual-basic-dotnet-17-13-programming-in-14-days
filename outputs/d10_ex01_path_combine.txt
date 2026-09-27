@@ -1,0 +1,8 @@
+combined      : C:\books\day10\ledger.csv
+concatenated  : C:\booksday10ledger.csv
+and with one  : C:\books\day10\ledger.csv
+file name     : ledger.csv
+without suffix: ledger
+extension     : .csv
+folder        : C:\books\day10
+changed       : ledger.json

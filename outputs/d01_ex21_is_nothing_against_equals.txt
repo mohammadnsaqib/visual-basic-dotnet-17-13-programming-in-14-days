@@ -1,0 +1,7 @@
+empty Is Nothing    : False
+empty = Nothing     : True
+missing Is Nothing  : True
+missing = Nothing   : True
+empty = missing     : True
+String.Equals       : False
+= treats Nothing as an empty String; Is does not

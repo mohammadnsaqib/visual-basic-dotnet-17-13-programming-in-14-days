@@ -1,0 +1,6 @@
+rogue as text   : 99
+rogue as number : 99
+declared        : False
+Expense declared: True
+parse 'Liability' : True, Liability = 2
+parse 'Rent'      : False, and parsed now reads 0

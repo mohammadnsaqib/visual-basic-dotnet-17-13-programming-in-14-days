@@ -1,0 +1,4 @@
+types under My : 1
+  My.InternalXmlHelper
+the axis gives   : AC-1000
+My.Computer and My.Settings are generated for other project types

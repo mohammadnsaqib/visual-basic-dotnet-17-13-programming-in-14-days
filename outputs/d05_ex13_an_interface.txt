@@ -1,0 +1,4 @@
+Title    : September rent
+Describe : invoice: September rent
+the variable's type is IDescribable
+the object's type is Invoice

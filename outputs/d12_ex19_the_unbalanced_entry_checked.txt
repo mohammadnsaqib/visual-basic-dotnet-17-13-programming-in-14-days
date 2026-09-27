@@ -1,0 +1,4 @@
+message   : the entry is out by 100.00
+postings  : 0
+cash      : 0.00
+the refusal is not enough; nothing may have been applied either

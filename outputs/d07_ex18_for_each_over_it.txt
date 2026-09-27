@@ -1,0 +1,4 @@
+  Cash
+  Rent
+implements IEnumerable : False
+For Each asked the type for GetEnumerator and got one

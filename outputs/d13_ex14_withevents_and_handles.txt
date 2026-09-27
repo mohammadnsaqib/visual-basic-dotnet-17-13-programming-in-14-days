@@ -1,0 +1,5 @@
+  Handles saw 1
+  Handles saw 2
+  Handles saw 3
+seen : 3
+no AddHandler appears anywhere; the Handles clause is the wiring

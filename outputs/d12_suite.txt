@@ -1,0 +1,4 @@
+> dotnet test code/tally.tests --nologo
+Test run for code\tally.tests\bin\Debug\net10.0\tally.tests.dll (.NETCoreApp,Version=v10.0)
+A total of 1 test files matched the specified pattern.
+Passed!  - Failed:     0, Passed:    16, Skipped:     0, Total:    16, Duration: 44 ms - tally.tests.dll (net10.0)

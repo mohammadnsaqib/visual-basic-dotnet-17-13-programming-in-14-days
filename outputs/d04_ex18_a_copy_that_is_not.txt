@@ -1,0 +1,5 @@
+original.Name  : changed
+original.Lines : 2
+copy.Name      : changed
+copy.Lines     : 2
+there was never a second object to change

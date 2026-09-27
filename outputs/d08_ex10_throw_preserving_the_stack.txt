@@ -1,0 +1,5 @@
+  Middle saw it and passed it on
+caught : thrown in Deepest
+  at ex10_throw_preserving_the_stack.Program.Deepest() in Program.vb:line 6
+  at ex10_throw_preserving_the_stack.Program.Middle() in Program.vb:line 11
+  at ex10_throw_preserving_the_stack.Program.Main() in Program.vb:line 20

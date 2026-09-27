@@ -1,0 +1,11 @@
+> statement AC-1000
+AC-1000 Cash
+  Debit  AC-1000      5,000.00
+  Credit AC-1000      1,200.00
+  Credit AC-1000        900.00
+  balance            2,900.00
+> statement ac-1001
+AC-1001 Rent
+  Debit  AC-1001      1,200.00
+  Debit  AC-1001        900.00
+  balance            2,100.00

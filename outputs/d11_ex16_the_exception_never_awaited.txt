@@ -1,0 +1,5 @@
+the program is still running
+the task faulted : True
+and it holds     : nobody will hear this
+nothing was printed by the failure itself, and nothing stopped
+Main finished normally, with a failure never reported

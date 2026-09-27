@@ -1,0 +1,6 @@
+CInt on text        : 42
+CType on text       : 42
+DirectCast on boxed : 42
+CInt on boxed       : 42
+DirectCast on a String Object: InvalidCastException
+CInt on the same Object: 42

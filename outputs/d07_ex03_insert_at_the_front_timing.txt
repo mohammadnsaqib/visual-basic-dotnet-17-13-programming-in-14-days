@@ -1,0 +1,5 @@
+40000 at the end   : 0.4 ms
+40000 at the front : 112.0 ms
+the front cost 258 times as much
+both lists hold 40000 and 40000 items
+and the front one starts 40000, 39999

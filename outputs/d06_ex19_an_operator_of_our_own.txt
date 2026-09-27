@@ -1,0 +1,11 @@
+rent       : 1,200.00
+tax        : 87.50
+rent + tax : 1,287.50
+rent - tax : 1,112.50
+negated    : -87.50
+rent = tax : False
+rent > tax : True
+rent = 1200: True
+sorted     : -5.00, 12.50, 30.00
+total      : 37.50
+rounding   : 0.12 and 0.14

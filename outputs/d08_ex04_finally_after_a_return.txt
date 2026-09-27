@@ -1,0 +1,7 @@
+  Try began for 42
+  Finally ran
+good input gave 42
+  Try began for forty
+  Catch ran
+  Finally ran
+bad input gave  -1

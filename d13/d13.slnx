@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../tally/tally.vbproj" />
+  <Project Path="../tally.tests/tally.tests.vbproj" />
+  <Project Path="ex16_removehandler/ex16_removehandler.vbproj" />
+</Solution>

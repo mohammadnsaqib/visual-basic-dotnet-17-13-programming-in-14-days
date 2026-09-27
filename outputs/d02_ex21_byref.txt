@@ -1,0 +1,3 @@
+the Integer is now 2
+the List now holds 3 item(s)
+TryParse returned True and set its ByRef argument to 512

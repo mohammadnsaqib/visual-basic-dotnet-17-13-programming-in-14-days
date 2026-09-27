@@ -1,0 +1,8 @@
+the box holds a Int32
+CLng converts whatever it finds, and that works:
+  42
+DirectCast unboxes, and it wants an Integer:
+  42
+The same box read as a Long:
+Unhandled exception. System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Int64'.
+   at ex08_unboxing_wants_the_exact_type.Program.Main() in Program.vb:line 17

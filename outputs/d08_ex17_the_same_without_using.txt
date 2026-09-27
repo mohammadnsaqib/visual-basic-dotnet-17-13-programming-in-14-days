@@ -1,0 +1,4 @@
+caught : something failed mid-write
+the Finally disposed the writer
+bytes written before the failure : 14
+Using writes that Try and that Finally, and cannot forget either

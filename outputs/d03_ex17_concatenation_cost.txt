@@ -1,0 +1,4 @@
+rounds      : 20000
+length      : 20000
+elapsed     : 61 ms
+characters copied: about 200000000

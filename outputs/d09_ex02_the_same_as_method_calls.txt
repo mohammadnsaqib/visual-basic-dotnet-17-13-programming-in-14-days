@@ -1,0 +1,7 @@
+query syntax:
+  AC-1000   1,200.00
+  AC-4000     900.00
+method syntax:
+  AC-1000   1,200.00
+  AC-4000     900.00
+same shape of result : True

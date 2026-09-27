@@ -1,0 +1,4 @@
+error: absent.json is not there
+error: load needs a file name
+error: save needs a file name
+the shell is still usable : opened AC-1000 Cash 0.00

@@ -1,0 +1,4 @@
+  3 field(s) : [AC-1000] [Cash] [3800.00]
+  3 field(s) : [AC-1001] [Rent] [1200.00]
+  3 field(s) : [AC-4000] [Sales] [-5000.00]
+three fields every time, and every one of them is right

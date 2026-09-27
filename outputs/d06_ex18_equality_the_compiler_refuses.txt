@@ -1,0 +1,1 @@
+Program.vb(17,12): error BC30452: Operator '=' is not defined for types 'Tag' and 'Tag'.

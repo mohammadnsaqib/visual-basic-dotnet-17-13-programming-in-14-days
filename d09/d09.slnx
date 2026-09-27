@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../tally/tally.vbproj" />
+  <Project Path="../tally.tests/tally.tests.vbproj" />
+  <Project Path="ex19_aggregate_with_a_seed/ex19_aggregate_with_a_seed.vbproj" />
+</Solution>

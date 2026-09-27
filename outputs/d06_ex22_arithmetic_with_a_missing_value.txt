@@ -1,0 +1,11 @@
+ten + 1  : [11]
+none + 1 : []
+ten + none : []
+ten > 5  : [True]
+none > 5 : []
+none = none : []
+none Is Nothing : True
+the branch for 'none > 5' was not taken
+the branch for 'Not (none > 5)' was not taken
+If(none, -1) : -1
+If(ten, -1)  : 10

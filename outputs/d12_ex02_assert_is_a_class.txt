@@ -1,0 +1,9 @@
+the code              : passed
+the name              : passed
+the balance           : passed
+a wrong name          : FAILED
+  Assert.AreEqual failed. Expected string length 10 but was 4. 'expected' expression: '"Petty cash"', 'actual' expression: 'account.Name'.
+Expected: "Petty cash"
+But was:  "Cash"
+-----------^
+a test project has a runner that does what Check does here

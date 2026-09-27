@@ -1,0 +1,3 @@
+first.Entries  : 10
+second.Entries : 10
+same object    : True
